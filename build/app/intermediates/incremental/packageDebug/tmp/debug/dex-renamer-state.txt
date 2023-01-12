@@ -1,0 +1,4 @@
+#Wed Jan 04 16:24:00 IST 2023
+base.0=/home/aditya/IdeaProjects/tip_calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
